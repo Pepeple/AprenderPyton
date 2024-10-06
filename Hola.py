@@ -1,0 +1,5 @@
+type(5.66)
+type(5)
+text = input("x: ")
+print("i cant",text,"runbetter than you")
+print((text+" ")*4 + text)
